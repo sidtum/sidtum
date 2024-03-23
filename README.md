@@ -26,7 +26,7 @@ Hi there, I'm Siddarth, As a Computer Science student at The Ohio State Universi
 <div id="header" align="center">
   <h2>Connect With Me!: </h2>
   <a href="https://www.linkedin.com/in/siddarth-tummala-9855b4249/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      <h2>Connect With Me!: </h2> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
 </div>
 
