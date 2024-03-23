@@ -23,9 +23,9 @@
 
 # 💫 About Me:
 <div align="center">
-  <h1>
+  <p>
     Hi there, I'm Siddarth, As a Computer Science student at The Ohio State University, I am driven by a passion for Artificial Intelligence, especially in computer vision and natural language processing. My enthusiasm for machine learning technologies is matched by my dedication to crafting innovative software solutions tailored for business applications. Eager to contribute to impactful projects, I am committed to continuous learning and growth in the dynamic field of technology.
-  </h1>
+  </p>
 </div>
 Hi there, I'm Siddarth, As a Computer Science student at The Ohio State University, I am driven by a passion for Artificial Intelligence, especially in computer vision and natural language processing. My enthusiasm for machine learning technologies is matched by my dedication to crafting innovative software solutions tailored for business applications. Eager to contribute to impactful projects, I am committed to continuous learning and growth in the dynamic field of technology.
 <div id="header" align="center">
