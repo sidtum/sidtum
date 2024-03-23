@@ -40,5 +40,7 @@ Hi there, I'm Siddarth, As a Computer Science student at The Ohio State Universi
 ![](https://github-readme-streak-stats.herokuapp.com/?user=23stummala&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=23stummala&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=23stummala&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=23stummala&icon=0&color=1)](https://visitcount.itsvg.in)
