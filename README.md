@@ -25,4 +25,4 @@ Hi there, I'm Siddarth, As a Computer Science student at The Ohio State Universi
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sidtum&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sidtum&icon=0&color=1)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=sidtum&style=for-the-badge)
